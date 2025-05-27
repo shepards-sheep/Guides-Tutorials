@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drafts/Chat notes.md",
+                "file": "Shorctucts/2. Fields of use/3. Terminal - Command prompt shortcuts.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chat notes"
+              "title": "3. Terminal - Command prompt shortcuts"
             }
           }
         ],
@@ -196,8 +196,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "d892fcfba71414b8",
+  "active": "6131cc9a1fdc1505",
   "lastOpenFiles": [
+    "README.md",
     "Windows/Shorctucts/0. Index Org/0.1 Index.md",
     "Shorctucts/2. Fields of use/1. Software/1.1 Editing/1.1.4 Spreadsheet's/Microsoft Excel.md",
     "Shorctucts/2. Fields of use/1. Software/1.1 Editing/1.1.4 Spreadsheet's/Google Sheets.md",
@@ -233,7 +234,6 @@
     "Shorctucts/2. Fields of use/1. Software/1.1 Editing",
     "Shorctucts/0. Index Org/CLT/Mnemonic",
     "Shorctucts/0. Index Org/CLT/Content",
-    "Shorctucts/2. Fields of use/3. Terminal - Command prompt shortcuts.md",
     "Pasted image 20250327042437.png"
   ]
 }
